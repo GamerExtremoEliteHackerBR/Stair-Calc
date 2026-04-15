@@ -1,0 +1,1 @@
+F:\Projetos\Unity\Calcular Escada\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\103w2m1u\obj\arm64-v8a
