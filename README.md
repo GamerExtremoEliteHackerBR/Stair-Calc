@@ -40,7 +40,7 @@ Comprimento Total   = (numDegraus - 1) * larguraDegrau;
 Ângulo de Inclinação = Mathf.Atan(alturaEscada / comprimentoTotal) * Mathf.Rad2Deg;
 Hipotenusa          = Mathf.Sqrt(Mathf.Pow(alturaEscada, 2) + Mathf.Pow(comprimentoTotal, 2));
 
-;
+
 🏗️ Arquitetura Técnica
 
 Assets/
