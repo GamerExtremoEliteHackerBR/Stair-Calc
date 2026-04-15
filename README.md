@@ -101,6 +101,12 @@ Desenvolvido por Gamer Extremo | Transformando necessidades práticas em código
 
 ---
 
+### 🙏 Créditos
+
+Desenvolvido com dedicação por **Gamer Extremo**
+
+---
+
 
 
 
