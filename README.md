@@ -98,7 +98,6 @@ Distribuído sob licença MIT.
 
 Desenvolvido por Gamer Extremo | Transformando necessidades práticas em código
 
-text
 
 ---
 
