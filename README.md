@@ -14,7 +14,7 @@
 
 [<img src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/Stair-Calc/refs/heads/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">](https://vimeo.com/1184582477)]
 
-[<img src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/Stair-Calc/refs/heads/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">](COLE_AQUI_O_LINK_DO_VIDEO_NO_YOUTUBE)
+<!--[<img src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/Stair-Calc/refs/heads/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">](COLE_AQUI_O_LINK_DO_VIDEO_NO_YOUTUBE)-->
 
 *Clique na imagem para assistir ao vídeo de gameplay*
 
@@ -109,7 +109,6 @@ Fase 3	📋 Planejado	Visualização 3D, cálculo de materiais
 Distribuído sob licença MIT.
 
 ---
-
 
 ### 🙏 Créditos
 
