@@ -7,12 +7,18 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-MVP%20Complete-brightgreen)
 
+
+## 🎥 Gameplay
+
+<!--[![Gameplay Preview](COLE_AQUI_O_LINK_RAW_DA_IMAGEM)](COLE_AQUI_O_LINK_DO_VIDEO_NO_YOUTUBE)-->
+
+[<img src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/Stair-Calc/refs/heads/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">](https://vimeo.com/1184582477)]
+*Clique na imagem para assistir ao vídeo de gameplay*
+
+
 ## 📐 Sobre o Projeto
 
 **Calculadora de Escadas** é uma ferramenta utilitária desenvolvida em Unity para cálculo rápido e preciso de dimensionamento de escadas. O projeto nasceu de uma necessidade real durante uma reforma residencial e evoluiu para um aplicativo completo com sistema de áudio imersivo e interface intuitiva.
-
-🎥 Gameplay
-<img src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/Stair-Calc/refs/heads/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">
 
 ### ✨ Funcionalidades Implementadas (MVP)
 
@@ -42,8 +48,10 @@ Número de Degraus   = Mathf.CeilToInt(alturaEscada / alturaDegrau);
 Comprimento Total   = (numDegraus - 1) * larguraDegrau;
 Ângulo de Inclinação = Mathf.Atan(alturaEscada / comprimentoTotal) * Mathf.Rad2Deg;
 Hipotenusa          = Mathf.Sqrt(Mathf.Pow(alturaEscada, 2) + Mathf.Pow(comprimentoTotal, 2));
+
+
 🏗️ Arquitetura Técnica
-text
+
 Assets/
 ├── Scripts/
 │   ├── CalculadoraEscada.cs   # Lógica principal e cálculos
@@ -58,6 +66,8 @@ Assets/
 │   └── Thanks.unity           # Cena de créditos
 └── AudioMixer/
     └── MainMixer.mixer        # Mixer com grupos Master/Music/SFX
+
+🎵 Sistema de Áudio (PlayerPrefs)
 🎵 Sistema de Áudio (PlayerPrefs)
 Chave	Tipo	Valor Padrão
 MasterVolume	float	0.8f (80%)
@@ -95,11 +105,12 @@ Fase 3	📋 Planejado	Visualização 3D, cálculo de materiais
 📄 Licença
 Distribuído sob licença MIT.
 
+---
 
+### 🙏 Créditos
 
-Clique na imagem para assistir ao vídeo de gameplay
+Desenvolvido com dedicação por **Gamer Extremo**
 
-🙏 Créditos
-Desenvolvido com dedicação por Gamer Extremo
+---
 
 
