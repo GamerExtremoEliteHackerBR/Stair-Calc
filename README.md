@@ -1,6 +1,3 @@
-
-
-
 # 🪜 Calculadora de Escadas
 
 **Unity 3D Utility Tool** | C# | Professional Stair Dimensioning Calculator
@@ -102,10 +99,5 @@ Clique na imagem para assistir ao vídeo de gameplay
 
 🙏 Créditos
 Desenvolvido com dedicação por Gamer Extremo
-
-text
-
-**Resumo da mudança:** A seção `## 🎥 Gameplay` que estava logo abaixo dos badges foi movida para o final do arquivo, posicionada antes dos Créditos e após a Licença.
-
 
 
