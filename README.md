@@ -28,7 +28,19 @@
 | **UI/UX** | Interface responsiva, feedback sonoro, validação de inputs, navegação entre cenas |
 | **Configurações** | Menu de áudio com sliders (0-100%), reset para valores padrão |
 
+<!--### 🎮 Controles
+
+| Tecla | Ação | Contexto |
+|-------|------|----------|
+| `ESC` | Fechar menu de áudio / Voltar | Todos os menus |
+| `F1` | Sistema de debug | Cena EscadaApp |
+| `F11` / `Alt+Enter` | Alternar tela cheia | Todas as cenas |
+| **Mouse** | | |
+| Cursor | Apontar para selecionar | Menus |
+| Botão Esquerdo | Confirmar seleção | Todos os botões |-->
 ### 🎮 Controles
+
+#### 💻 Desktop (Teclado + Mouse)
 
 | Tecla | Ação | Contexto |
 |-------|------|----------|
@@ -38,6 +50,17 @@
 | **Mouse** | | |
 | Cursor | Apontar para selecionar | Menus |
 | Botão Esquerdo | Confirmar seleção | Todos os botões |
+
+#### 📱 Mobile (Toque)
+
+| Ação | Contexto |
+|------|----------|
+| Toque no campo | Inserir dados (altura, largura, degrau) |
+| Toque no botão **Calcular** | Executar cálculo dos valores inseridos |
+| Toque no botão **Config** (canto superior direito) | Abrir menu de configuração de áudio |
+| Toque no botão **Clear** (canto superior esquerdo) | Limpar todos os dados inseridos |
+| Toque no botão **About** | Abrir tela de agradecimentos/creditos |
+| Botão **Voltar** do sistema | Fechar menu atual / Voltar para cena anterior |
 
 ### 📊 Fórmulas de Cálculo
 
