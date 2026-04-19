@@ -127,6 +127,7 @@ Fase 3	📋 Planejado	Visualização 3D, cálculo de materiais
 📄 Licença
 Distribuído sob licença MIT.
 
+<!--
 ---
 
 ### 🙏 Créditos
@@ -134,5 +135,7 @@ Distribuído sob licença MIT.
 Desenvolvido com dedicação por **Gamer Extremo**
 
 ---
+-->
+
 🙏 Créditos
 Desenvolvido com dedicação por Gamer Extremo
