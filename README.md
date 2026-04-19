@@ -135,4 +135,6 @@ Desenvolvido com dedicação por **Gamer Extremo**
 
 ---
 
+### 🙏 Créditos
 
+Desenvolvido com dedicação por **Gamer Extremo**
