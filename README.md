@@ -102,7 +102,7 @@ Distribuído sob licença MIT.
 
 <!--[![Gameplay Preview](COLE_AQUI_O_LINK_RAW_DA_IMAGEM)](COLE_AQUI_O_LINK_DO_VIDEO_NO_YOUTUBE)-->
 
-[<img src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/Stair-Calc/blob/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">](https://vimeo.com/1184582477)]
+[<img src="https://github.com/GamerExtremoEliteHackerBR/Stair-Calc/blob/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">](https://vimeo.com/1184582477)]
 
 *Clique na imagem para assistir ao vídeo de gameplay*
 
