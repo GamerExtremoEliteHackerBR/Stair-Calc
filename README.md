@@ -11,6 +11,9 @@
 
 **Calculadora de Escadas** é uma ferramenta utilitária desenvolvida em Unity para cálculo rápido e preciso de dimensionamento de escadas. O projeto nasceu de uma necessidade real durante uma reforma residencial e evoluiu para um aplicativo completo com sistema de áudio imersivo e interface intuitiva.
 
+🎥 Gameplay
+<img src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/Stair-Calc/refs/heads/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">
+
 ### ✨ Funcionalidades Implementadas (MVP)
 
 | Categoria | Funcionalidades |
@@ -92,8 +95,7 @@ Fase 3	📋 Planejado	Visualização 3D, cálculo de materiais
 📄 Licença
 Distribuído sob licença MIT.
 
-🎥 Gameplay
-<img src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/Stair-Calc/refs/heads/main/Screenshots/Screens%20Editor/Captura%20de%20tela%202025-09-27%20232011.png" width="600" alt="Gameplay Screenshot">
+
 
 Clique na imagem para assistir ao vídeo de gameplay
 
