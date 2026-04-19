@@ -134,4 +134,5 @@ Distribuído sob licença MIT.
 Desenvolvido com dedicação por **Gamer Extremo**
 
 ---
-#### 💻 Desktop (Teclado + Mouse)
+🙏 Créditos
+Desenvolvido com dedicação por Gamer Extremo
